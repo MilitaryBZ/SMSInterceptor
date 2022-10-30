@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SMS Interceptor</string>
+    <string name="notGranted">Для работы приложения\n предоставьте нужные разрешения</string>
+</resources>
